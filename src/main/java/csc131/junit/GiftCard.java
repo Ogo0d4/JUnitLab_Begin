@@ -2,6 +2,7 @@ package csc131.junit;
 /**
  * An encapsulation of a gift card that can be used to
  * make purchases at a retail store.
+ * Also This is Belle Nguyen Student id 302115229
  */
 public class GiftCard
 {
